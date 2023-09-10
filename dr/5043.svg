@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" onmouseup="{ if(window.parent.document.onmouseup) window.parent.document.onmouseup(arguments[0]);}" xml:space="preserve" style="enable-background:new 0 0 48 48;" viewBox="0 0 48 48" y="0px" x="0px" id="arrow-left-square-fill" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink"><style type="text/css">
-	.st0{fill:#F7B844;}
-</style><rect data-cppathid="10000" height="27.3" width="34.7" y="9.9" x="7.1"/><g id="Group_172"><path data-cppathid="10001" d="M48,42c0,3.3-2.7,6-6,6H6c-3.3,0-6-2.7-6-6V6c0-3.3,2.7-6,6-6h36c3.3,0,6,2.7,6,6V42z    M34.5,22.5H17.1l6.4-6.4c0.6-0.6,0.6-1.5,0-2.1s-1.5-0.6-2.1,0l-9,9c-0.6,0.6-0.6,1.5,0,2.1c0,0,0,0,0,0l9,9   c0.6,0.6,1.5,0.6,2.1,0s0.6-1.5,0-2.1l-6.4-6.4h17.4c0.8,0,1.5-0.7,1.5-1.5S35.3,22.5,34.5,22.5z" class="st0" id="Path_463"/></g></svg>
